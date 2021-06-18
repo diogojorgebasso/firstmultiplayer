@@ -1,7 +1,7 @@
 const canvasWidth = 640;
 const canvasHeight = 640;
-const playerWidth = 640;
-const playerHeight = 640;
+const playerWidth = 30;
+const playerHeight = 30;
 const border = 5;
 const infoBar = 45;
 
